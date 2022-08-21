@@ -17,6 +17,7 @@ def example():
 nerdemojirun(example)
 ```
 
-my favourite color is '#4ef542' 
+my favourite color is `#4ef542`
+
 
 ![you rn](https://c.tenor.com/DuThn51FjPcAAAAC/nerd-emoji-nerd.gif)
