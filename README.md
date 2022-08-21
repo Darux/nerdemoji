@@ -5,7 +5,7 @@ a machine and you are a god
 
 
 Using the:
-```
+```py
 from nerdemoji import nerdemojirun
 
 
