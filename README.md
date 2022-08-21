@@ -5,7 +5,7 @@ a machine and you are a god
 
 
 Using the:
-'''
+```
 from nerdemoji import nerdemojirun
 
 
@@ -15,7 +15,7 @@ def example():
 
 
 nerdemojirun(example)
-'''
+```
 
 my favourite color is '#4ef542' 
 
