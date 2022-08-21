@@ -17,6 +17,13 @@ def example():
 nerdemojirun(example)
 ```
 
+Output:
+```
+list index out of range
+"list index out of range"
+-🤓
+```
+
 my favourite color is `#4EF542`
 
 
