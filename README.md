@@ -6,7 +6,7 @@ a machine and you are a god
 
 Using the:
 ```py
-from nerdemoji import nerdemojirun
+from nerdemoji import nerdemoji
 
 
 def example():
@@ -14,7 +14,7 @@ def example():
     print(ex_list[4])
 
 
-nerdemojirun(example)
+nerdemoji.nerdemojirun(example)
 ```
 
 Output:
